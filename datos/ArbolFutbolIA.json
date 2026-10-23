@@ -1,0 +1,557 @@
+{
+  "formato": "catalogo_futbolia",
+  "version": 1,
+  "id": "futbolia",
+  "areas": [
+    {
+      "nombre": "Física",
+      "id": "fisica",
+      "icono": "🏃",
+      "pregunta": "¿Qué capacidad física quieres trabajar?",
+      "precaucion_adicional": " No aumentar intensidad, duración y dificultad al mismo tiempo."
+    },
+    {
+      "nombre": "Técnica",
+      "id": "tecnica",
+      "icono": "⚽",
+      "pregunta": "¿Qué habilidad técnica quieres practicar?"
+    },
+    {
+      "nombre": "Táctica",
+      "id": "tactica",
+      "icono": "🧠",
+      "pregunta": "¿Qué aspecto del juego quieres comprender?"
+    },
+    {
+      "nombre": "Psicológica y motivacional",
+      "id": "psicologica",
+      "icono": "💬",
+      "pregunta": "¿Qué aspecto personal quieres fortalecer?",
+      "precaucion_adicional": " Mantener un enfoque educativo; no diagnosticar ni presionar a compartir emociones."
+    }
+  ],
+  "temas": [
+    {
+      "area": "Física",
+      "tema": "Resistencia",
+      "detalle": "Progresión suave de actividad y descanso; ajustar al nivel y a la respuesta personal.",
+      "conocimiento": "La resistencia permite sostener esfuerzos a lo largo de una sesión o partido.",
+      "objetivo": "Construir tolerancia al esfuerzo de forma gradual.",
+      "acciones": [
+        "Alternar caminata rápida o trote suave con pausas",
+        "Comenzar con intervalos cortos y cómodos",
+        "Aumentar una sola variable cada vez"
+      ],
+      "precaucion": "Detenerse ante dolor, mareo o falta de aire inusual.",
+      "conocimiento_ampliado": "La resistencia es la capacidad de sostener una actividad durante un periodo sin perder por completo el control de la tarea. En fútbol se relaciona con moverse, ofrecer líneas de pase y recuperarse entre acciones.",
+      "progresion": [
+        "Empezar con una actividad cómoda y breve.",
+        "Alternar periodos cortos de movimiento con descanso.",
+        "Aumentar solo una variable cada vez: duración, repeticiones o dificultad.",
+        "Revisar cómo se siente la persona durante la sesión y después."
+      ],
+      "adaptaciones": [
+        "Permitir caminar, trotar, desplazarse con ayuda técnica o realizar una variante sentada, según preferencia y seguridad.",
+        "Ofrecer pausas adicionales, espacio accesible y señales claras."
+      ],
+      "evaluacion": [
+        "Registrar tiempo de participación cómoda, pausas y percepción subjetiva del esfuerzo.",
+        "Comparar el progreso de la persona consigo misma, no con otros jugadores."
+      ],
+      "estructura": "Calentamiento suave, bloques cortos de actividad, pausas planificadas y vuelta a la calma."
+    },
+    {
+      "area": "Física",
+      "tema": "Fuerza y estabilidad",
+      "detalle": "Movimientos controlados y opciones con apoyo.",
+      "conocimiento": "La fuerza funcional ayuda a estabilizar el cuerpo y ejecutar movimientos de juego.",
+      "objetivo": "Mejorar control y estabilidad con técnica segura.",
+      "acciones": [
+        "Practicar levantarse y sentarse de una silla estable si resulta adecuado",
+        "Hacer elevaciones de talones con apoyo",
+        "Usar movimientos controlados sin cargas altas"
+      ],
+      "precaucion": "No entrenar con dolor ni forzar articulaciones.",
+      "conocimiento_ampliado": "La fuerza ayuda a producir y controlar movimiento; la estabilidad permite mantener posturas y controlar el cuerpo durante tareas de fútbol. La técnica y el control tienen prioridad sobre la cantidad.",
+      "progresion": [
+        "Empezar con movimientos controlados y sin carga o con apoyo estable.",
+        "Practicar pocas repeticiones de calidad con descanso.",
+        "Aumentar gradualmente repeticiones o dificultad, no ambas a la vez."
+      ],
+      "adaptaciones": [
+        "Usar silla, pared, baranda o apoyo estable cuando sea adecuado.",
+        "Modificar rango de movimiento y posición inicial según comodidad."
+      ],
+      "evaluacion": [
+        "Observar control del movimiento, postura cómoda y ejecución sin dolor."
+      ],
+      "estructura": "Preparación articular suave, práctica de movimientos controlados, pausas y relajación."
+    },
+    {
+      "area": "Física",
+      "tema": "Velocidad y reacción",
+      "detalle": "Practicar respuestas breves ante señales claras, con espacio seguro.",
+      "conocimiento": "La reacción puede practicarse con señales visuales o auditivas, según las preferencias y necesidades de acceso.",
+      "objetivo": "Mejorar el inicio de una acción y la toma de información.",
+      "acciones": [
+        "Responder a un cono o tarjeta de color",
+        "Practicar salidas cortas a ritmo cómodo",
+        "Aumentar la complejidad de una señal cada vez"
+      ],
+      "precaucion": "Calentar antes y adaptar el desplazamiento a la movilidad.",
+      "conocimiento_ampliado": "La velocidad se refiere a ejecutar un desplazamiento o acción con rapidez; la reacción es responder a una señal. En actividades inclusivas también importan la anticipación, la toma de decisiones y la seguridad.",
+      "progresion": [
+        "Practicar primero la señal sin desplazamiento.",
+        "Usar una señal clara y un espacio libre de obstáculos.",
+        "Aumentar gradualmente variedad de señales o distancia."
+      ],
+      "adaptaciones": [
+        "Usar señales visuales, auditivas o táctiles acordadas con la persona.",
+        "Dar tiempo de anticipación y evitar salidas bruscas si no son adecuadas."
+      ],
+      "evaluacion": [
+        "Registrar si identifica la señal y responde de forma segura, sin exigir una marca de tiempo."
+      ],
+      "estructura": "Explicación, ensayo lento, rondas cortas de reacción y pausas."
+    },
+    {
+      "area": "Física",
+      "tema": "Movilidad y recuperación",
+      "detalle": "Movilidad suave, pausas e hidratación según el contexto.",
+      "conocimiento": "La recuperación combina descanso y movimiento cómodo después de la actividad.",
+      "objetivo": "Favorecer una transición gradual al reposo.",
+      "acciones": [
+        "Realizar movilidad articular suave sin forzar",
+        "Caminar o moverse suavemente al finalizar",
+        "Beber agua y respetar el descanso"
+      ],
+      "precaucion": "Detenerse si aparece dolor o malestar inusual.",
+      "conocimiento_ampliado": "La movilidad busca facilitar movimientos cómodos y controlados. La recuperación incluye pausas, hidratación según necesidad y una transición gradual después del esfuerzo.",
+      "progresion": [
+        "Realizar movimientos suaves dentro de un rango cómodo.",
+        "Evitar rebotes forzados o posiciones dolorosas.",
+        "Finalizar con respiración tranquila y una revisión de sensaciones."
+      ],
+      "adaptaciones": [
+        "Elegir posturas estables y movimientos posibles para la persona.",
+        "No forzar amplitud articular ni comparar flexibilidad."
+      ],
+      "evaluacion": [
+        "Preguntar por comodidad, tensión y sensación general; detener si aparece dolor."
+      ],
+      "estructura": "Movimiento suave de preparación, movilidad controlada, pausa y vuelta a la calma."
+    },
+    {
+      "area": "Técnica",
+      "tema": "Pase",
+      "detalle": "Empezar cerca de un objetivo amplio y aumentar la dificultad gradualmente.",
+      "conocimiento": "El pase combina dirección, fuerza y elección de momento.",
+      "objetivo": "Mejorar la precisión y la continuidad de la jugada.",
+      "acciones": [
+        "Pasar hacia una marca grande a corta distancia",
+        "Alternar pie o forma de contacto si es posible",
+        "Aumentar distancia solo cuando el control sea cómodo"
+      ],
+      "precaucion": "Practicar en un espacio despejado y sin presión excesiva.",
+      "conocimiento_ampliado": "El pase permite conservar la posesión, avanzar y cooperar. La precisión depende de la postura, la superficie de contacto, la dirección del cuerpo, la fuerza aplicada y la comunicación con el compañero.",
+      "progresion": [
+        "Comenzar a corta distancia con balón quieto.",
+        "Apuntar a una zona amplia marcada como objetivo.",
+        "Aumentar distancia o introducir movimiento solo cuando resulte cómodo."
+      ],
+      "adaptaciones": [
+        "Usar un balón de tamaño, peso o contraste visual adecuado.",
+        "Permitir pases rodados, desde posición sentada o con distancia reducida."
+      ],
+      "evaluacion": [
+        "Contar pases que llegan a la zona objetivo y observar control, comunicación y comodidad."
+      ],
+      "estructura": "Demostración, práctica individual o en parejas, variación accesible y cierre."
+    },
+    {
+      "area": "Técnica",
+      "tema": "Control",
+      "detalle": "Reducir velocidad y presión para priorizar el primer contacto.",
+      "conocimiento": "El control orienta el balón para preparar la siguiente acción.",
+      "objetivo": "Aumentar comodidad y continuidad al recibir.",
+      "acciones": [
+        "Recibir un pase suave y detener el balón",
+        "Orientar el primer toque hacia un espacio libre",
+        "Añadir un segundo toque antes de pasar"
+      ],
+      "precaucion": "Ajustar velocidad, tamaño del balón o espacio según necesidad.",
+      "conocimiento_ampliado": "El control permite amortiguar y orientar el balón para preparar la siguiente acción. La primera meta es recibir con seguridad y mantener el balón cerca, no hacerlo rápido.",
+      "progresion": [
+        "Recibir un balón parado o rodado lentamente.",
+        "Aumentar poco a poco la distancia o cambiar la dirección del pase.",
+        "Añadir una decisión sencilla después del control."
+      ],
+      "adaptaciones": [
+        "Dar más tiempo para recibir y decidir.",
+        "Usar balones de contraste alto y pases previsibles.",
+        "Permitir controlar con la superficie corporal o implemento acordado, según reglas y objetivos."
+      ],
+      "evaluacion": [
+        "Observar si mantiene el balón a una distancia manejable y puede elegir la siguiente acción."
+      ],
+      "estructura": "Pases suaves, control repetido, pausa y combinación control-pase."
+    },
+    {
+      "area": "Técnica",
+      "tema": "Regate",
+      "detalle": "Conducir lentamente entre pocos obstáculos y aumentar dificultad según control.",
+      "conocimiento": "El regate combina conducción, cambios de dirección y protección del balón.",
+      "objetivo": "Mantener el control al cambiar de dirección.",
+      "acciones": [
+        "Conducir en línea recta y detener el balón",
+        "Pasar entre dos conos con amplitud suficiente",
+        "Añadir un cambio de dirección cada vez"
+      ],
+      "precaucion": "Evitar choques y asegurar un espacio libre.",
+      "conocimiento_ampliado": "El regate combina conducción, cambios de dirección y protección del balón para superar un obstáculo o rival. La progresión debe priorizar control y espacio seguro.",
+      "progresion": [
+        "Conducir en línea recta a ritmo cómodo.",
+        "Rodear conos separados y estáticos.",
+        "Reducir espacio o introducir una decisión solo si hay control suficiente."
+      ],
+      "adaptaciones": [
+        "Aumentar separación entre conos, reducir velocidad o permitir pausas.",
+        "Asegurar superficie despejada y accesible."
+      ],
+      "evaluacion": [
+        "Observar control cercano del balón, orientación y seguridad al cambiar de dirección."
+      ],
+      "estructura": "Conducción libre, recorrido sencillo, variante elegida y descanso."
+    },
+    {
+      "area": "Técnica",
+      "tema": "Remate",
+      "detalle": "Priorizar dirección y control antes que potencia.",
+      "conocimiento": "El remate busca dirigir el balón a una zona de la portería.",
+      "objetivo": "Mejorar coordinación y elección de dirección.",
+      "acciones": [
+        "Rematar suavemente hacia zonas amplias",
+        "Comenzar desde distancia corta",
+        "Practicar recibir, orientar y rematar"
+      ],
+      "precaucion": "Asegurar que nadie esté en la trayectoria del balón.",
+      "conocimiento_ampliado": "El remate busca dirigir el balón hacia una zona de la portería. La precisión y el equilibrio se desarrollan antes de aumentar potencia o distancia.",
+      "progresion": [
+        "Comenzar con balón quieto y objetivo amplio a corta distancia.",
+        "Practicar dirección y contacto controlado.",
+        "Aumentar distancia o añadir movimiento de forma gradual."
+      ],
+      "adaptaciones": [
+        "Ajustar tamaño del balón, distancia, altura del objetivo y posición de ejecución.",
+        "Permitir remates desde una posición estable o con ayuda técnica cuando sea apropiado."
+      ],
+      "evaluacion": [
+        "Registrar si el balón se dirige hacia la zona elegida y si la ejecución se siente cómoda."
+      ],
+      "estructura": "Calentamiento, tiros controlados con descanso y recuperación de balones de forma segura."
+    },
+    {
+      "area": "Psicológica y motivacional",
+      "tema": "Confianza",
+      "detalle": "Definir una meta controlable y reconocer avances de aprendizaje.",
+      "conocimiento": "La confianza deportiva puede apoyarse en metas realistas y en observar los propios avances.",
+      "objetivo": "Favorecer la participación y una actitud de aprendizaje.",
+      "acciones": [
+        "Elegir una meta concreta para la sesión",
+        "Anotar un logro después de practicar",
+        "Tratar el error como información para el siguiente intento"
+      ],
+      "precaucion": "Orientación educativa, no diagnóstico ni tratamiento psicológico.",
+      "conocimiento_ampliado": "La confianza deportiva puede apoyarse en metas pequeñas, práctica progresiva, retroalimentación concreta y un entorno sin burlas. No equivale a diagnosticar el estado psicológico de la persona.",
+      "progresion": [
+        "Elegir una habilidad que la persona quiera practicar.",
+        "Definir una meta pequeña y alcanzable.",
+        "Reconocer el esfuerzo y revisar qué ayudó a conseguirla."
+      ],
+      "adaptaciones": [
+        "Permitir elegir entre ejercicios y niveles de desafío.",
+        "Dar retroalimentación privada, concreta y respetuosa."
+      ],
+      "evaluacion": [
+        "Preguntar cómo valoraría su confianza antes y después, si desea compartirlo."
+      ],
+      "estructura": "Meta acordada, práctica breve, retroalimentación positiva y reflexión voluntaria."
+    },
+    {
+      "area": "Psicológica y motivacional",
+      "tema": "Concentración",
+      "detalle": "Usar una consigna breve y volver a ella cuando haya distracciones.",
+      "conocimiento": "La atención puede organizarse con objetivos concretos y señales simples.",
+      "objetivo": "Volver a la tarea con menos carga de información.",
+      "acciones": [
+        "Elegir una consigna corta, como mirar antes de recibir",
+        "Practicar una habilidad a la vez",
+        "Acordar señales visuales o verbales comprensibles"
+      ],
+      "precaucion": "Adaptar la comunicación a las preferencias sensoriales y cognitivas.",
+      "conocimiento_ampliado": "La concentración es dirigir la atención hacia una consigna relevante durante una tarea. Las instrucciones breves y consistentes pueden ayudar a reducir la sobrecarga.",
+      "progresion": [
+        "Dar una sola consigna clara.",
+        "Practicarla en un entorno con pocas distracciones.",
+        "Añadir una segunda señal cuando la primera sea familiar."
+      ],
+      "adaptaciones": [
+        "Acompañar las instrucciones con demostración o señal visual.",
+        "Permitir repetir la consigna y dar tiempo de procesamiento."
+      ],
+      "evaluacion": [
+        "Observar si la persona identifica la consigna y completa la tarea según su propio ritmo."
+      ],
+      "estructura": "Explicar una consigna, demostrar, practicar en rondas breves y revisar."
+    },
+    {
+      "area": "Psicológica y motivacional",
+      "tema": "Presión competitiva",
+      "detalle": "Preparar una rutina breve de enfoque antes de una acción deportiva.",
+      "conocimiento": "Las rutinas breves pueden ayudar a organizar la atención antes de competir.",
+      "objetivo": "Facilitar una respuesta paso a paso ante los nervios.",
+      "acciones": [
+        "Respirar de manera lenta y cómoda",
+        "Usar una frase de enfoque personal",
+        "Ensayar la rutina en entrenamientos"
+      ],
+      "precaucion": "No sustituye apoyo psicológico profesional cuando se necesita.",
+      "conocimiento_ampliado": "Una rutina previa sencilla puede ayudar a organizar la atención en situaciones competitivas. La presión varía entre personas; la estrategia debe elegirse con el jugador y no presentarse como tratamiento psicológico.",
+      "progresion": [
+        "Identificar una situación que la persona quiera preparar.",
+        "Elegir una rutina breve: respirar con calma, mirar un objetivo y recordar una consigna.",
+        "Practicar primero en una actividad amistosa y revisar si resulta útil."
+      ],
+      "adaptaciones": [
+        "Evitar obligar a compartir emociones personales.",
+        "Ofrecer alternativas como pausa, señal clave o conversación con entrenador de confianza."
+      ],
+      "evaluacion": [
+        "Preguntar si la rutina fue útil y permitir cambiarla."
+      ],
+      "estructura": "Definir la rutina, ensayarla en contexto de baja presión y conversar voluntariamente."
+    },
+    {
+      "area": "Psicológica y motivacional",
+      "tema": "Motivación",
+      "detalle": "Dividir una meta grande en pasos pequeños y significativos.",
+      "conocimiento": "Las metas elegidas por el jugador ayudan a orientar la práctica y reconocer progreso.",
+      "objetivo": "Mantener una participación significativa.",
+      "acciones": [
+        "Definir una meta semanal realista",
+        "Registrar avances en una lista",
+        "Alternar tareas retadoras con actividades agradables"
+      ],
+      "precaucion": "Respetar el ritmo y la decisión de la persona.",
+      "conocimiento_ampliado": "La motivación puede apoyarse en objetivos personales, elección, variedad y percepción de progreso. Los objetivos deben ser significativos para el jugador y revisarse sin castigos ni comparaciones.",
+      "progresion": [
+        "Elegir una razón personal para entrenar.",
+        "Definir una meta concreta de proceso.",
+        "Revisar avances y ajustar la meta de común acuerdo."
+      ],
+      "adaptaciones": [
+        "Ofrecer alternativas de ejercicios y roles dentro del equipo.",
+        "Usar metas de participación, aprendizaje o cooperación, además de rendimiento."
+      ],
+      "evaluacion": [
+        "Registrar la meta elegida y preguntar si sigue siendo importante para la persona."
+      ],
+      "estructura": "Elección de meta, práctica escogida, reconocimiento de esfuerzo y revisión."
+    },
+    {
+      "area": "Táctica",
+      "tema": "Posicionamiento y espacios",
+      "detalle": "Comprender dónde ubicarse para ofrecer opciones de pase y mantener el equilibrio del equipo.",
+      "conocimiento": "El posicionamiento depende de la ubicación del balón, compañeros, rivales y objetivo de la jugada.",
+      "objetivo": "Reconocer espacios útiles y ofrecer una opción de apoyo.",
+      "acciones": [
+        "Marcar zonas amplias con conos o líneas visibles",
+        "Moverse a un espacio libre cuando el compañero controla el balón",
+        "Practicar recibir y pasar tras una orientación breve"
+      ],
+      "precaucion": "Mantener distancias seguras y evitar choques; adaptar el espacio a la movilidad del grupo.",
+      "conocimiento_ampliado": "El posicionamiento no es una ubicación fija: cambia según el balón y las opciones de juego. En un contexto inclusivo se pueden adaptar zonas, reglas, velocidad y roles para que todas las personas participen.",
+      "progresion": [
+        "Practicar sin oposición y con una zona objetivo",
+        "Añadir un compañero de apoyo",
+        "Incluir oposición controlada solo si el grupo está preparado"
+      ],
+      "adaptaciones": [
+        "Usar zonas de colores o marcas de alto contraste",
+        "Reducir espacio y velocidad de juego si ayuda a comprender la tarea"
+      ],
+      "evaluacion": [
+        "Observar si el jugador identifica un espacio y ofrece una opción de pase",
+        "Valorar decisiones y participación, no solo velocidad"
+      ],
+      "estructura": "Explicar zonas, demostrar, practicar con poca presión y cerrar con una revisión breve."
+    },
+    {
+      "area": "Táctica",
+      "tema": "Apoyo y líneas de pase",
+      "detalle": "Aprender a crear opciones seguras para que el compañero pueda pasar el balón.",
+      "conocimiento": "Una línea de pase es un espacio libre entre quien tiene el balón y un compañero disponible.",
+      "objetivo": "Crear y reconocer opciones de pase mediante movimiento y comunicación.",
+      "acciones": [
+        "Practicar pases entre tres personas en triángulo amplio",
+        "Después de pasar, desplazarse a una zona disponible",
+        "Usar una señal verbal, visual o acordada para ofrecer apoyo"
+      ],
+      "precaucion": "Acordar señales comprensibles y evitar exigir comunicación oral si no es la opción preferida.",
+      "conocimiento_ampliado": "El apoyo facilita la continuidad del juego. La distancia, el ángulo y el tiempo de movimiento deben ajustarse al nivel y las necesidades de acceso de los participantes.",
+      "progresion": [
+        "Empezar con pases sin oposición",
+        "Añadir movimiento después del pase",
+        "Incluir una decisión entre dos compañeros disponibles"
+      ],
+      "adaptaciones": [
+        "Permitir señales visuales, gestuales o verbales acordadas",
+        "Ampliar zonas de apoyo y dar más tiempo para decidir"
+      ],
+      "evaluacion": [
+        "Contar opciones de apoyo identificadas de forma segura",
+        "Registrar cooperación y comprensión de la consigna"
+      ],
+      "estructura": "Demostración, rondas breves de pase y movimiento, descanso y comentario grupal."
+    },
+    {
+      "area": "Táctica",
+      "tema": "Transición ataque-defensa",
+      "detalle": "Reconocer qué hacer cuando el equipo recupera o pierde el balón.",
+      "conocimiento": "La transición es el cambio rápido entre atacar y defender. Las primeras decisiones deben ser claras y seguras.",
+      "objetivo": "Identificar una primera acción útil después de recuperar o perder el balón.",
+      "acciones": [
+        "Practicar la señal de cambio de rol sin oposición",
+        "Al recuperar el balón, buscar una opción de pase",
+        "Al perderlo, recuperar posición y proteger el espacio sin contacto peligroso"
+      ],
+      "precaucion": "Evitar entradas deslizantes o contactos; utilizar oposición controlada y reglas claras.",
+      "conocimiento_ampliado": "Las transiciones requieren atención, comunicación y priorización. El ejercicio debe centrarse en reconocer la situación y elegir una acción adecuada, no en exigir una reacción máxima.",
+      "progresion": [
+        "Usar una señal para indicar cambio de fase",
+        "Añadir dos opciones de decisión",
+        "Simular una situación reducida con reglas de seguridad"
+      ],
+      "adaptaciones": [
+        "Dar señales visuales y verbales acordadas",
+        "Reducir velocidad, espacio o número de participantes"
+      ],
+      "evaluacion": [
+        "Observar si identifica el cambio de fase",
+        "Valorar decisión y recuperación de posición de forma segura"
+      ],
+      "estructura": "Calentamiento, demostración de las dos fases, práctica por rondas y revisión."
+    },
+    {
+      "area": "Táctica",
+      "tema": "Comunicación y roles de equipo",
+      "detalle": "Mejorar la coordinación mediante mensajes claros y roles acordados.",
+      "conocimiento": "La comunicación puede ser verbal, gestual, visual o mediante señales acordadas; los roles se ajustan a la situación.",
+      "objetivo": "Coordinar una acción simple con compañeros usando señales accesibles.",
+      "acciones": [
+        "Acordar dos señales breves para pedir apoyo o indicar disponibilidad",
+        "Practicar una secuencia de pase con cambio de rol",
+        "Revisar en grupo qué señal fue clara y cómoda"
+      ],
+      "precaucion": "No imponer un modo de comunicación; preguntar qué señales son accesibles y respetar la participación voluntaria.",
+      "conocimiento_ampliado": "La coordinación mejora cuando las señales son consistentes y entendidas por el equipo. Los roles deben ser flexibles y no asignarse por estereotipos o suposiciones sobre una discapacidad.",
+      "progresion": [
+        "Practicar una señal cada vez",
+        "Añadir una segunda señal cuando la primera sea conocida",
+        "Aplicar las señales en un juego reducido"
+      ],
+      "adaptaciones": [
+        "Usar tarjetas, colores contrastantes, gestos o señales sonoras acordadas",
+        "Explicar las reglas con demostración y lenguaje sencillo"
+      ],
+      "evaluacion": [
+        "Registrar si el equipo comprende las señales y coopera",
+        "Preguntar a los participantes qué adaptación les funcionó"
+      ],
+      "estructura": "Acuerdo de señales, demostración, práctica colaborativa y reflexión breve."
+    }
+  ],
+  "niveles": [
+    {
+      "id": "principiante",
+      "valor": "Principiante / estoy empezando",
+      "icono": "🌱",
+      "acciones_previas": [
+        "Explicar y demostrar el movimiento a baja complejidad",
+        "Practicar en bloques cortos con descansos",
+        "Priorizar control y comprensión antes que velocidad"
+      ],
+      "max_acciones_base": 1,
+      "progresion": [
+        "Repetir la versión sencilla hasta comprenderla",
+        "Aumentar solo una variable cuando la ejecución sea cómoda",
+        "Introducir decisiones adicionales de manera gradual"
+      ]
+    },
+    {
+      "id": "intermedio",
+      "valor": "Tengo algo de experiencia",
+      "icono": "⚽"
+    },
+    {
+      "id": "avanzado",
+      "valor": "Tengo experiencia y busco progresar",
+      "icono": "🚀",
+      "acciones_previas": [
+        "Realizar un calentamiento progresivo",
+        "Practicar la tarea con una decisión o variación adicional",
+        "Mantener la técnica y el control incluso cuando aumenta la complejidad"
+      ],
+      "max_acciones_base": 1,
+      "progresion": [
+        "Establecer una meta observable para la sesión",
+        "Añadir una variable de dificultad cada vez",
+        "Reducir la complejidad si se deteriora el control o la comodidad"
+      ]
+    }
+  ],
+  "contextos": [
+    {
+      "id": "individual",
+      "valor": "Practico individualmente",
+      "icono": "👤",
+      "adaptaciones_previas": [
+        "Usar objetivos visibles y materiales disponibles en casa o cancha",
+        "Asegurar espacio libre de obstáculos y una pausa cuando se necesite"
+      ],
+      "max_adaptaciones_base": 1
+    },
+    {
+      "id": "equipo",
+      "valor": "Practico con un equipo o entrenador",
+      "icono": "👥",
+      "adaptaciones_previas": [
+        "Acordar la consigna y los turnos con el grupo",
+        "Ofrecer roles alternativos y retroalimentación respetuosa"
+      ],
+      "max_adaptaciones_base": 1
+    },
+    {
+      "id": "recursos_limitados",
+      "valor": "Tengo poco espacio o pocos materiales",
+      "icono": "🏠",
+      "adaptaciones_previas": [
+        "Usar un balón u objeto seguro disponible y marcas existentes en el suelo",
+        "Sustituir conos por referencias visibles y mantener una zona libre de obstáculos",
+        "Elegir una tarea que pueda realizarse sin equipamiento especializado"
+      ],
+      "max_adaptaciones_base": 1
+    },
+    {
+      "id": "adaptado",
+      "valor": "Necesito adaptar el espacio, la comunicación o el movimiento",
+      "icono": "♿",
+      "adaptaciones_previas": [
+        "Acordar con la persona qué adaptación le resulta útil; no asumir sus necesidades",
+        "Modificar espacio, señal, distancia, material, postura o ritmo según preferencia",
+        "Permitir una forma alternativa de participar sin penalización"
+      ],
+      "max_adaptaciones_base": 1
+    }
+  ]
+}

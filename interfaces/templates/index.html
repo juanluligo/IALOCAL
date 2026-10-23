@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>FutbolIA</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+  <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <h1>⚽ FutbolIA</h1>
+      <p>Orientación futbolística inclusiva · Árbol de decisiones · IA local</p>
+      <small>Modelo configurado: {{ modelo }}</small>
+    </header>
+    <div class="card">
+      <label><input id="usar-ia" type="checkbox" checked> Usar IA local (Ollama)</label>
+      <p id="ruta" class="muted">FutbolIA</p>
+      <h2 id="pregunta">Cargando árbol…</h2>
+      <div id="opciones" class="options"></div>
+      <section id="resultado" aria-live="polite"></section>
+      <button id="atras" type="button">← Paso anterior</button>
+      <button id="inicio" type="button">⌂ Reiniciar</button>
+    </div>
+    <p class="muted">Prototipo educativo. No sustituye al entrenador ni a profesionales sanitarios.</p>
+  </main>
+</body>
+</html>

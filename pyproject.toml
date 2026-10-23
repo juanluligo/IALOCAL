@@ -1,0 +1,18 @@
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+extend-exclude = [".respaldo"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"interfaces/app.py" = ["E402"]
+"interfaces/app_streamlit.py" = ["E402"]
+"logica/generar_arbol.py" = ["E402"]
+"modelo/crear_modelfile.py" = ["E402"]
+"tests/test_futbolia.py" = ["E402"]
+"tests/test_interfaces.py" = ["E402"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["logica", "interfaces", "modelo"]
